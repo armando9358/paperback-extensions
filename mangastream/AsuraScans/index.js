@@ -475,7 +475,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.AsuraScans = exports.AsuraScansInfo = void 0;
 const types_1 = require("@paperback/types");
 const MangaStream_1 = require("../MangaStream");
-const DOMAIN = 'https://asuracomic.net';
+const DOMAIN = 'https://asura-scans.com/';
 exports.AsuraScansInfo = {
     version: (0, MangaStream_1.getExportVersion)('0.0.7'),
     name: 'AsuraScans',
