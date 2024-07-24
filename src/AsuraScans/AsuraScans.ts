@@ -11,7 +11,7 @@ import {
     MangaStream
 } from '../MangaStream'
 
-const DOMAIN = 'https://asuracomic.net'
+const DOMAIN = 'https://asura-scans.com/'
 
 export const AsuraScansInfo: SourceInfo = {
     version: getExportVersion('0.0.7'),
