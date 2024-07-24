@@ -478,7 +478,7 @@ const MangaStream_1 = require("../MangaStream");
 const DOMAIN = 'https://asura-scans.com/';
 exports.AsuraScansInfo = {
     version: (0, MangaStream_1.getExportVersion)('0.0.7'),
-    name: 'AsuraScans',
+    name: 'Asura-Scans',
     description: `Extension that pulls manga from ${DOMAIN}`,
     author: 'Netsky',
     authorWebsite: 'http://github.com/TheNetsky',
